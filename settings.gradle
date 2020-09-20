@@ -1,0 +1,2 @@
+rootProject.name='LOGINMVP'
+include ':app'
